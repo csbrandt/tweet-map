@@ -1,0 +1,10 @@
+<div class="tweet_container">
+	<div class="tweet_content_header">
+		<img class="tweet_profile_image" src="{{ profile_image_url }}" />
+	   <p class="align_right tweet_username"><a href="http://twitter.com/{{ from_user }}">@{{ from_user }}</a></p>
+	   <abbr class="align_right tweet_timeago" title="{{ created_at }}"></abbr>
+	</div>
+	<div class="tweet_content_text">
+	   <p>{{ parsedText }}</p>
+	</div>
+</div>
