@@ -1,4 +1,17 @@
+tweet-map is a basic map that is constantly updated with new tweets in a particular geographic region.
 
+## Dependencies
+
++ [jQuery](http://jquery.com/)
++ [jQuery UI](http://jqueryui.com/)
++ [Underscore.js](http://underscorejs.org/)
++ [Backbone.js](http://backbonejs.org/)
++ [Require.js](http://requirejs.org/)
++ [requirejs-plugins / src / async.js](https://github.com/millermedeiros/requirejs-plugins/blob/master/src/async.js)
++ [order.js](http://requirejs.org/docs/release/1.0.5/minified/order.js)
++ [text.js](https://github.com/requirejs/text)
++ [Google Maps API V3](https://developers.google.com/maps/documentation/javascript/reference)
++ [timeago.js](http://timeago.yarp.com/)
 
 ## License
 
