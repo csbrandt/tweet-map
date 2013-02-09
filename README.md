@@ -1,3 +1,6 @@
+tweet-map
+================
+
 tweet-map is a basic map that is constantly updated with new tweets in a particular geographic region.
 
 ## Dependencies
